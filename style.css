@@ -1,0 +1,40 @@
+body{
+background-color: #ffeef5;
+font-family: Arial;
+}
+
+.box{
+background: white;
+width: 400px;
+margin: 15px auto;
+padding: 20px;
+border-radius: 15px;
+text-align: center;
+}
+
+h1{
+color: #ff4d88;
+}
+
+h2{
+color: #333;
+}
+
+img{
+border-radius: 50%;
+border: 3px solid #ff4d88;
+}
+
+ul, ol{
+text-align: left;
+display: inline-block;
+}
+
+table{
+margin: auto;
+}
+
+table, th, td{
+border: 1px solid #ff99bb;
+padding: 8px;
+}
